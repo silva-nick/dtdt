@@ -1,0 +1,1 @@
+(self.webpackChunkdtdt=self.webpackChunkdtdt||[]).push([[201],{9310:function(t){"use strict";t.exports=JSON.parse('{"permalink":"/dtdt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkdtdt=self.webpackChunkdtdt||[]).push([[349],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/dtdt/blog/welcome"},{"title":"Hello","permalink":"/dtdt/blog/hello-world"},{"title":"Hola","permalink":"/dtdt/blog/hola"}]}')}}]);

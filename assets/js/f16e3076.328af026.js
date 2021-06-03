@@ -1,0 +1,1 @@
+(self.webpackChunkdtdt=self.webpackChunkdtdt||[]).push([[845],{2894:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/dtdt/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/dtdt/blog/tags/hola"}')}}]);
